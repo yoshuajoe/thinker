@@ -1,0 +1,15 @@
+Halo=OTHER nama=NAME saya=PER Yoshua=PER
+Yoshua=PER sangat=OTHER suka=LIKE bermain=OTHER di=OTHER London=LOC
+hanya=OTHER butuh=OTHER sedikit=OTHER usaha=OTHER untuk=OTHER bepergian=OTHER
+namun=OTHER jangan=OTHER pernah=OTHER lupakan=OTHER kesehatan=OTHER
+nama=NAME Andi=PER tidak=NEG terdaftar=OTHER
+Yoshua=PER berada=VERB di=OTHER Jakarta=LOC
+jangan=OTHER main=VERB di=OTHER London=LOC
+di=OTHER London=LOC sedang=OTHER ramai=OTHER
+saya=PER makan=VERB jeruk=FRUIT
+apa=QMTHINGS yang=OTHER ingin=OTHER kamu=PER tanyakan=VERB ?=OTHER
+apa=QMTHINGS yang=OTHER mereka=PER makan=VERB di=OTHER London=LOC ?=OTHER
+dimana=QMLOC mereka=PER makan=VERB ?=OTHER
+dimana=QMLOC saya=PER main=VERB ?=OTHER
+di=OTHER sana=OTHER terjadi=OTHER kebakaran=EVENT
+saya=PER makan=VERB jeruk=FRUIT di=OTHER London=LOC

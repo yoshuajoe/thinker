@@ -1,0 +1,11 @@
+saya=SUBJ Yoshua=PER
+mau=VERB beli=VERB apa=QTHINGS ya=OTHER
+bingung=VERB saya=SUBJ
+saya=SUBJ beli=VERB harddisk=THINGS
+mau=VERB beli=VERB makanan=THINGS
+gua=SUBJ mau=VERB beli=VERB tas=THINGS nih=OTHER
+kamu=SUBJ mau=VERB beli=VERB apa=QMTHINGS
+aku=SUBJ mau=VERB beli=VERB harrdisk=THINGS di=PREP tokopedia=LOC
+harddisk=THINGS yang=OTHER ukuran=MEA 14=MEA TB=MEA
+saya=SUBJ perlu=VERB monitor=THINGS 32=MEA inci=MEA
+saya=SUBJ mau=VERB beli=VERB monitor=THING ya=OTHER di=PREP bukalapak=LOC yang=OTHER ukuran=MEA 50=MEA inci=MEA
